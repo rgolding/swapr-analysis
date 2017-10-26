@@ -1,0 +1,10 @@
+Notes:
+
+It would be more convenient for studentEvaluations and expertEvaluations to have a single column that combines itemIndex and url. 
+
+
+
+Steps:
+1. Create sets of students of n size
+
+
